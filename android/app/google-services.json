@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "285012038560",
+    "project_id": "despachoqrs",
+    "storage_bucket": "despachoqrs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285012038560:android:10562e31f56d8e218e4ac5",
+        "android_client_info": {
+          "package_name": "com.example.controldespacho"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "285012038560-cj4njnhs3k6cjjv8s2213mt2lh0jpl6j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.controldespacho",
+            "certificate_hash": "04c0dfd21c1c97b9ab3454946e944c7ec2d4845b"
+          }
+        },
+        {
+          "client_id": "285012038560-i6llkat3k4m38ngb0liu7cl88iqqi1a8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy9Zql1jvTj48oV8sMS1DAq6LB19yUj7Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "285012038560-i6llkat3k4m38ngb0liu7cl88iqqi1a8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
